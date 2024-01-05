@@ -21,9 +21,12 @@ Please adhere to this project's `code of conduct`.
 
 
 ## Screenshots
+![Screenshot (405)](https://github.com/umairimran/cricketScoringApp/assets/66002305/b92cd781-d0cb-4b90-bb07-82e19dc06621)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (406)](https://github.com/umairimran/cricketScoringApp/assets/66002305/31da4ca6-2ab0-42e4-bdab-06664272283d)
 
+
+![Screenshot (408)](https://github.com/umairimran/cricketScoringApp/assets/66002305/275e26f5-3b58-47c6-aae3-87999c931374)
 
 
 ## Used By
